@@ -1,6 +1,6 @@
 # Research-UFRN
 
-##Documentation statistics.dat file, simulation with 10 species 
+## Documentation statistics.dat file, simulation with 10 species 
 
 * D   --> Species Density
 * S.D --> Standard Deviation
