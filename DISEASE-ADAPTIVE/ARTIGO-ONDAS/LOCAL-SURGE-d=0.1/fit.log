@@ -1,0 +1,842 @@
+
+
+*******************************************************************************
+Wed Apr 15 15:29:01 2020
+
+
+FIT:    data read from 'stats2.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:29:41 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:30:12 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:31:04 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        x range restricted to [0.00000 : 2000.00]
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:33:27 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:35:30 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:36:38 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:36:46 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:37:33 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:38:01 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:40:04 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:40:43 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:41:04 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:41:24 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:41:43 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:42:04 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:42:14 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:42:36 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:43:37 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:44:55 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:45:47 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:46:05 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:46:24 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:50:38 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:50:46 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:51:03 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:52:00 2020
+
+
+FIT:    data read from 'densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
+
+
+*******************************************************************************
+Wed Apr 15 15:53:20 2020
+
+
+FIT:    data read from 'plots/densities.dat' u 1:2
+        format = x:z
+        #datapoints = 200
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5587629427e+01   0.00e+00  1.00e+00    1.000000e+00
+   2 1.5353513084e+01  -3.77e-02  1.00e-02    1.034214e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 15.3535
+rel. change during last iteration : -3.77426e-07
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.277765
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0771533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 1.03421          +/- 0.01964      (1.899%)
